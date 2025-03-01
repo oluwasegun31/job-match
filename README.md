@@ -86,10 +86,10 @@ The match score is calculated by comparing the job's required skills with the us
 
 ## **How to Run the project**
 
-1.  Clone the repository: `git clone [your repository URL]`
-2.  Navigate to the project directory: `cd [project directory]`
+1.  Clone the repository: `git clone https://github.com/oluwasegun31/job-match.git`
+2.  Navigate to the project directory: `cd job-match`
 3.  Install dependencies: `npm install`
 4.  Run the development server: `npm run dev`
-5.  Open your browser and navigate to `http://localhost:3000`
+5.  Open your browser and navigate to `http://localhost:5173`
 
 ---
