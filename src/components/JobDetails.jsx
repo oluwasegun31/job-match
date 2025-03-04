@@ -36,7 +36,7 @@ const JobDetails = () => {
   return (
     <section
       className="fixed inset-0 bg-light/10 backdrop-blur-lg flex justify-center items-center"
-      onClick={() => setSelectedJob(null)}
+      onClick={() => closeModal()}
     >
       <div
         className="bg-white sm:p-6 p-4 rounded-lg lg:w-1/2 md:w-[700px] w-[92%] flex flex-col justify-start items-start gap-0.5 relative"
